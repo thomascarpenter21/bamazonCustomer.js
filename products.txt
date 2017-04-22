@@ -1,0 +1,13 @@
+id,product_name,department_name,price,stock_quantity
+1,tape,A,3.5,25
+2,pen,B,5,21
+3,paper,A,6,35
+4,stapler,B,4.5,84
+5,pencil,A,5.5,35
+6,highlighter,A,6,64
+7,ink,B,12,32
+8,printer,B,50,24
+9,computer,B,100,84
+10,keyboard,A,25,68
+11,mouse,A,15,51
+12,stapleremover,B,3,59
